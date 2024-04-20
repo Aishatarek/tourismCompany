@@ -1,0 +1,123 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Olympic swimming pool",
+            "owner": "New Aswan Youth Center",
+            "img1": "images/مشروعات/اسوان الجديدة/Screenshot 2022-09-05 115035.png",
+            "img2": "images/مشروعات/اسوان الجديدة/Screenshot 2022-09-05 115226.png"
+        },
+        {
+            "id": 2,
+            "title": "October Plaza Compound – October",
+            "owner": "Sodic",
+            "img1": "images/مشروعات/اكتوير بلازا/Screenshot 2022-09-05 112615.png",
+            "img2": "images/مشروعات/اكتوير بلازا/Screenshot 2022-09-05 113041.png",
+            "img3": "images/مشروعات/اكتوير بلازا/Screenshot 2022-09-05 113234.png"
+        },
+        {
+            "id": 3,
+            "title": "Swimming pool and Aquapark",
+            "owner": "Aqua Rosa Resort - Hurghada",
+            "img1": "images/مشروعات/اكوا بارك الباتروس/Screenshot 2022-09-05 121002.png",
+            "img2": "images/مشروعات/اكوا بارك الباتروس/Screenshot 2022-09-05 121232.png",
+            "img3": "images/مشروعات/اكوا بارك الباتروس/Screenshot 2022-09-05 121328.png"
+        },
+        {
+            "id": 4,
+            "title": "Spa health club Dana Beach",
+            "owner": "Group of Pick Albatross",
+            "img1": "images/مشروعات/بيك الباتروس/Screenshot 2022-09-05 113824.png",
+            "img2": "images/مشروعات/بيك الباتروس/Screenshot 2022-09-05 114548.png"
+        },
+        {
+            "id": 5,
+            "title": "Sea World Hotel, 6 main swimming pool  And 3 jacuzzi and a swimming pool for  The health club",
+            "owner": "Pick Albatross Group",
+            "img1": "images/مشروعات/حمامات وجاكوزى الباتروس/Screenshot 2022-09-05 120445.png",
+            "img2": "images/مشروعات/حمامات وجاكوزى الباتروس/Screenshot 2022-09-05 120640.png"
+        },
+        {
+            "id": 6,
+            "title": "Caesar Resort - Ras El Hikma",
+            "owner": "Sodic",
+            "img1": "images/مشروعات/سيزار/Screenshot 2022-09-05 111755.png",
+            "img2": "images/مشروعات/سيزار/Screenshot 2022-09-05 112039.png",
+            "img3": "images/مشروعات/سيزار/Screenshot 2022-09-05 112213.png"
+        },
+        {
+            "id": 7,
+            "title": "60 private swimming pool  river strip site - New Aswan",
+            "owner": "The Arab Contractors",
+            "img1": "images/مشروعات/فيلات اسوان/Screenshot 2022-09-05 115844.png",
+            "img2": "images/مشروعات/فيلات اسوان/Screenshot 2022-09-05 120257.png",
+            "img3": "images/مشروعات/فيلات اسوان/Screenshot 2022-09-05 120113.png"
+        },
+        {
+            "id": 8,
+            "title": "Private villa - uptown Cairo",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture19.png",
+            "img2": "images/projects/Picture20.jpg",
+            "img3": "images/projects/Picture21.png"
+        },
+        {
+            "id": 9,
+            "title": "private villa - The 5th Settlement",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture22.jpg",
+            "img2": "images/projects/Picture23.png",
+            "img3": "images/projects/Picture24.png"
+        },
+        {
+            "id": 10,
+            "title": "private villa - 6th of October City",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture25.jpg",
+            "img2": "images/projects/Picture26.png",
+            "img3": "images/projects/Picture27.png"
+        },
+        {
+            "id": 11,
+            "title": "private villa -  O-west October",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture28.jpg",
+            "img2": "images/projects/Picture29.png",
+            "img3": "images/projects/Picture30.png"
+        },
+        {
+            "id": 12,
+            "title": "private villa - El Shorouk City",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture31.jpg",
+            "img2": "images/projects/Picture32.png",
+            "img3": "images/projects/Picture33.png"
+        },
+        {
+            "id": 13,
+            "title": "private villa - Marassi - North cost ",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture34.jpg",
+            "img2": "images/projects/Picture35.png",
+            "img3": "images/projects/Picture36.png"
+        },
+        {
+            "id": 14,
+            "title": "private villa - Il Monte Galala Ain Sokhna",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture37.png"
+        },
+        {
+            "id": 15,
+            "title": "private villa - MIVIDA",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture39.png"
+        },
+        {
+            "id": 16,
+            "title": "private villa - Hacienda Red",
+            "owner": "The Arab Contractors",
+            "img1": "images/projects/Picture40.png"
+        }
+    ]
+}
